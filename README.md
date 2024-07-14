@@ -6,4 +6,5 @@ The project focus on analysis of sentiments and classifying them in positive or 
 ![Screenshot 2024-07-13 225319](https://github.com/user-attachments/assets/c26aa435-6064-4e06-831b-9560e202446b)
 ![Screenshot 2024-07-13 225423](https://github.com/user-attachments/assets/01daa729-f026-4a36-bb53-62a227ed8298)
 ![Screenshot 2024-07-13 225542](https://github.com/user-attachments/assets/0a46c2ff-8925-4b66-a543-72608ef9a040)
+![Screenshot 2024-07-13 225651](https://github.com/user-attachments/assets/5d1d6bc0-18f3-4462-9db7-bdc2b04b6ece)
 
